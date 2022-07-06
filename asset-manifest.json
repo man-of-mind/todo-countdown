@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-countdown/static/css/main.362101b6.css",
+    "main.js": "/todo-countdown/static/js/main.08f3d8d1.js",
+    "index.html": "/todo-countdown/index.html",
+    "main.362101b6.css.map": "/todo-countdown/static/css/main.362101b6.css.map",
+    "main.08f3d8d1.js.map": "/todo-countdown/static/js/main.08f3d8d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362101b6.css",
+    "static/js/main.08f3d8d1.js"
+  ]
+}
